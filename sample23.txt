@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sample1  main
 
+=======
+sample1 sample
+>>>>>>> sample
